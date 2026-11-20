@@ -1,6 +1,7 @@
 # Reforestation Runner
 
 Reforestation Runner is a short, side-scrolling Pygame game about restoring a forest. Jump over wildfire and fallen-timber hazards, collect water drops, and plant as many trees as possible.
+[!Watch the Demo](https://www.youtube.com/watch?v=GCg99wqyfy8)
 
 ## Gameplay
 
